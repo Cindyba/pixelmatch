@@ -1,4 +1,5 @@
 'use strict';
+// test git
 
 module.exports = pixelmatch;
 
